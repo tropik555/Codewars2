@@ -96,7 +96,7 @@ public class FilteringApples {
         @Override
         public String toString() {
             return "Apple{" +
-                    "weight=" + weight +
+                    "weight =" + weight +
                     ", color='" + color + '\'' +
                     '}';
         }
