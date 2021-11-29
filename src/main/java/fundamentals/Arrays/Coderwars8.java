@@ -521,7 +521,7 @@ public class Coderwars8 {
         return s;
     }
 
-    // Find Maximum and Minimum Values of a List https://www.codewars.com/kata/577a98a6ae28071780000989/train/java
+    // Find Maximum and Minimum Values of a CustomList https://www.codewars.com/kata/577a98a6ae28071780000989/train/java
     public int min(int[] list) {
         return Arrays.stream(list).min().getAsInt();
     }
