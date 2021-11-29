@@ -117,7 +117,7 @@ public class Main<string1> {
             System.out.println(a[i]);
         }*/
 
-//https://www.hackerrank.com/challenges/java-list/problem  Java List
+//https://www.hackerrank.com/challenges/java-list/problem  Java CustomList
    /*     int N = scan.nextInt();
         LinkedList<Integer> list = new LinkedList<>();
         for (int i = 0; i < N; i++) {
