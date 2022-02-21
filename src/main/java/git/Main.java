@@ -7,5 +7,9 @@ public class Main {
         System.out.println("L-02");
         System.out.println("L-02");
 
+        System.out.println("L-02");
+        System.out.println("L-02");
+        System.out.println("L-02");
+        System.out.println("L-03");
     }
 }
