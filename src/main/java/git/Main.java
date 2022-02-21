@@ -5,6 +5,5 @@ public class Main {
         System.out.println("L-01");
         System.out.println("L-03");
         System.out.println("L-02");
-
     }
 }
