@@ -11,5 +11,12 @@ public class Main {
         System.out.println("L-02");
         System.out.println("L-02");
         System.out.println("L-03");
+
+
+        System.out.println("L-04");
+        System.out.println("L-05");
+        System.out.println("L-06");
+        System.out.println("L-07");
+
     }
 }
